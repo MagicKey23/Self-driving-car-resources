@@ -5,6 +5,10 @@
 
 https://www.autoware.org/training
 
+## ROS2
+
+https://docs.ros.org/en/foxy/index.html
+
 ## Coursera Specialization
 
 https://www.coursera.org/specializations/self-driving-cars
