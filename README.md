@@ -65,3 +65,20 @@ https://www.youtube.com/watch?v=6AqtX8oCpKI
 
 https://www.youtube.com/watch?v=9KZjjtkgWSM
 
+# Papers
+
+# Lanenet Environmental Tool 
+
+https://www.mrt.kit.edu/z/publ/download/2018/Poggenhans2018Lanelet2.pdf
+
+# Boss Robot
+
+https://www.cmu.edu/traffic21/pdfs/urmson_christopher_2008_1.pdf
+
+# Architecture
+
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.8838&rep=rep1&type=pdf
+
+# Sensors and Perception Tool
+
+https://repository.tudelft.nl/islandora/object/uuid:2ae44ea2-e5e9-455c-8481-8284f8494e4e/datastream/OBJ/download
