@@ -84,10 +84,15 @@ https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.8838&rep=rep1&type
 https://repository.tudelft.nl/islandora/object/uuid:2ae44ea2-e5e9-455c-8481-8284f8494e4e/datastream/OBJ/download
 
 ## Path Algorithm
+
 ### RTT
 
+http://msl.cs.illinois.edu/~lavalle/papers/Lav98c.pdf
+
+
+### RTT*
+
 https://arxiv.org/pdf/1105.1186.pdf
-https://ieeexplore.ieee.org/document/8997746
 
 ### A*
 
