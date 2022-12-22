@@ -102,5 +102,4 @@ http://www.ccpo.odu.edu/~klinck/Reprints/PDF/wikipediaNav2018.pdf
 
 https://www.atlantis-press.com/article/55917280.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicKey23)](https://github.com/anuraghazra/github-readme-stats)
 
